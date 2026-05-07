@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lisa
+# 👋 Hi, I'm Johanna
 
 > **Founder & CEO of CoreForia** — *where AI belongs*
 
