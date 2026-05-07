@@ -2,7 +2,7 @@
 
 > **Founder & CEO of CoreForia** — *where AI belongs*
 
-💻 Foxy · Bentaex · Hamburg, Germany
+💻 Foxy · Foxtæx · Hamburg, Germany
 
 ---
 
