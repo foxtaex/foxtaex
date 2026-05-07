@@ -1,44 +1,27 @@
-## 👋 Hi, I’m **Aice**
+# 👋 Hi, I'm Lisa
 
-<sub>Founder & CEO • UI/UX Designer</sub>
+> **Founder & CEO of CoreForia** — *where AI belongs*
 
-💻 **Coding alias:** **Bentaex**
-📍 Hamburg, Germany
-
-I build **intuitive systems**, **scalable platforms**, and **creative ecosystems**
-at the intersection of **technology, gaming, and community**.
-
----
-
-### 🚀 What I do
-
-* Founder & CEO of **CoreForia**
-* Product vision & hands-on development
-* Coding under my dev tag **Bentaex**
-* UI/UX design with a system-driven mindset
+💻 Foxy · Bentaex · Hamburg, Germany
 
 ---
 
 ### 🧠 Core Projects
 
-* **CoreForia**
-  * **FoxCity**
+- **[CoreForia](https://coreforIA.eu)** — Core for Artificial Intelligence Areas
+  - *Building A.L.I.C.E. — Artificial Learning Intelligence Character Empathy*
+- **FoxCity** — Coming soon
 
 ---
 
 ### 🛠 Tech & Focus
 
-* Frontend & UI Systems: HTML, CSS, TypeScript
-* UI/UX & system design
-* Game Development: FiveM, WoW Add-ons
-* Infrastructure & tooling
+`UI/UX Design` `TypeScript` `HTML/CSS` `FiveM` `WoW Add-ons`
 
 ---
 
 ### 📫 Connect
 
-* 🌐 [https://coreforia.net](https://coreforia.net)
-* 💬 Discord / Gaming: **.Aice.**
-* 💻 Coding identity: **Bentaex**
-
-So wie es jetzt ist, wirkt es ruhig, klar und **sehr souverän** 🌱
+[![Core](https://img.shields.io/badge/Core-Foria-ff6b6b?style=flat)](https://coreforIA.eu)
+[![Discord](https://img.shields.io/badge/Discord-.Aice.-7289da?style=flat)](https://discord.gg)
+[![Twitter](https://img.shields.io/badge/Twitter-@ilunacat-1da1f2?style=flat)](https://twitter.com/ilunacat)
