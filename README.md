@@ -10,7 +10,7 @@
 
 - **[CoreForia](https://coreforIA.eu)** — Core for Artificial Intelligence Areas
   - *Building A.L.I.C.E. — Artificial Learning Intelligence Character Empathy*
-- **FoxCity** — Coming soon
+- **FoxCore** — Coming soon
 
 ---
 
