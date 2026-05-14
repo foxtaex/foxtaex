@@ -8,8 +8,8 @@
 
 ### 🧠 Core Projects
 
-- **[CoreForia](https://coreforIA.eu)** — Core for Artificial Intelligence Areas
-  - *Building A.L.I.C.E. — Artificial Learning Intelligence Character Empathy*
+- **[CoreForAI](https://coreforIA.eu)** —
+- Hatches <- in my Repo
 - **FoxCore** — Coming soon
 
 ---
