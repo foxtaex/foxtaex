@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johanna
 
-> **Founder & CEO of CoreForia** — *where AI belongs*
+> **Co-Founder & CEO of CoreForAI** — *where AI belongs*
 
 💻 Foxy · Foxtæx · Hamburg, Germany
 
