@@ -9,7 +9,7 @@
 ### 🧠 Core Projects
 
 - **[CoreForAI](https://coreforIA.eu)** —
-- Hatches <- in my Repo
+- **[hatches](https://github.com/foxtaex/hatches)** <- in my Repo
 - **FoxCore** — Coming soon
 
 ---
